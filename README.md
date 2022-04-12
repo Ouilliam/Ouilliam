@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ouilliam.
 ### A 21yo french engineering student in **computer sciences and cybersecurity**. I love coding, especially when it comes to **video games and using APIs**.
 
-*🌱 I’m currently learning **Tensorflow, machine learning, and cybersecurity.***
+*🌱 I’m currently in an internship learning **Tensorflow, machine learning, and cybersecurity.***
 
 <h3 align="left">📫 Reach me:</h3>
 <br/>
