@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ouilliam.
-### A 21yo french engineering student in **computer sciences and cybersecurity**. I love coding, especially when it comes to AI, video games and APIs.
+### A 22yo french engineering student in **computer sciences and cybersecurity**. I love coding, especially when it comes to AI, video games and APIs.
 
 
 
